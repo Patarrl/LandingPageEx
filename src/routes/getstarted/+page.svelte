@@ -164,7 +164,7 @@ const multiColumnRight = (): void => {
             multiColumnRight();
             isAutoplay = false;
         }}>
-            <i class="fa-solid fa-arrow-right" />
+            <i class="fa-solid fa-arrow-right" /> 
         </button>
     </div>
 </div>
